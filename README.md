@@ -5,10 +5,10 @@ Une application web Python puissante pour extraire automatiquement les informati
 ## 📸 Aperçu
 
 ### Interface d'Upload
-![Interface d'upload](https://github.com/ettorhake/GoogleMapExtractor/blob/master/.github/images/interface.png?raw=true)
+![Interface d'upload](https://github.com/ettorhake/GoogleMapExtractor/blob/master/github/images/interface.png?raw=true)
 
 ### Base Notion
-![Base de données Notion](https://github.com/ettorhake/GoogleMapExtractor/blob/master/.github/images/notion.png?raw=true)
+![Base de données Notion](https://github.com/ettorhake/GoogleMapExtractor/blob/master/github/images/notion.png?raw=true)
 
 ## ✨ Fonctionnalités
 
@@ -104,7 +104,7 @@ ProspectExtractor/
 │   ├── html_extractor.py   # Logique d'extraction
 │   ├── notion_client.py    # Client API Notion
 │   └── web_interface.py    # Application Flask
-├── .github/
+├── github/
 │   └── images/            # Images pour la documentation
 ├── .gitignore
 ├── README.md
