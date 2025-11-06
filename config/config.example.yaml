@@ -1,0 +1,5 @@
+notion:
+  # Votre token d'intégration Notion
+  token: "secret_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  # L'ID de votre base de données Notion
+  database_id: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
